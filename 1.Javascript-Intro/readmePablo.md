@@ -71,5 +71,14 @@ pop things from an array (remove last item)
 
 An object is a collection of key:value pairs that describe the object. This collection is placed between {} and separated by ,.
 
+JavaScript objects are containers for named values, called properties and methods.
+
 functions are now called methods
+
+
+- object literals variable "name" = { value pairs}
+- use 'new' to create object
+- define an object constructor, and then create objects of the constructed type.
+
+objects are mutable, so you can create a variable to put them in to.
 
