@@ -66,3 +66,10 @@ create an array with [] or (old) new array(), new array(arrayLength);
 push things into array (add)
 select element by array[1]
 pop things from an array (remove last item)
+
+* objects
+
+An object is a collection of key:value pairs that describe the object. This collection is placed between {} and separated by ,.
+
+functions are now called methods
+
