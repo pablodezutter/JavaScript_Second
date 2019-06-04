@@ -78,7 +78,10 @@ functions are now called methods
 
 - object literals variable "name" = { value pairs}
 - use 'new' to create object
-- define an object constructor, and then create objects of the constructed type.
+- define an object constructor, and then create objects of the constructed type.To prevent repetition
 
 objects are mutable, so you can create a variable to put them in to.
 
+In a function definition, this refers to the "owner" of the function.
+
+To add a new property to a constructor, you must add it to the constructor function
